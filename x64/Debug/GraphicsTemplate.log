@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\GraphicsTemplate\GraphicsTemplate\GLFW\glfw3.h(104): message : see previous definition of 'APIENTRY'
+F:\GraphicsTemplate\GraphicsTemplate\core.h(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\GraphicsTemplate\GraphicsTemplate\cScene.h(47,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+F:\GraphicsTemplate\GraphicsTemplate\cScene.h(47,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  GraphicsTemplate.vcxproj -> F:\GraphicsTemplate\GraphicsTemplate\x64\Debug\GraphicsTemplate.exe
