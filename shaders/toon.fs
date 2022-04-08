@@ -24,5 +24,6 @@ void main()
         colour = vec4(0.4,0.2,0.2,1.0);
     else
         colour = vec4(0.2,0.1,0.1,1.0);
+    //transparency for this shader here?
     FragColor = colour;
 }

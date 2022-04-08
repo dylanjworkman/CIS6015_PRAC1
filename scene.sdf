@@ -71,10 +71,10 @@ MESH: torus_multi.obj
 MESH: plane.obj
 {
 	NAME:		plane
-	POS:		0.0 -3.0 0.0
-	ROT:		-90.0 0.0 0.0
+	POS:		-5.0 -3.0 0.0
+	ROT:		0.0 0.0 0.0
 	ROT_INCR:	0.0 0.0 0.0 
-	SCALE:		15.5 12.5 1.5
+	SCALE:		3.5 1.5 1.5
 	VEL:		0.0 0.0 0.0
 	SHADER_ID	0
 }
